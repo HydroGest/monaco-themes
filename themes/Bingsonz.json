@@ -8,8 +8,8 @@
     },
     {
       "foreground": "6272a4",
-      "token": "comment",
-      "fontStyle": "italic"
+      "fontStyle": "italic",
+      "token": "comment"
     },
     {
       "foreground": "f1fa8c",
