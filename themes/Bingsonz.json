@@ -9,7 +9,7 @@
     {
       "foreground": "6272a4",
       "token": "comment",
-      "fontStyle": "italic",
+      "fontStyle": "italic"
     },
     {
       "foreground": "f1fa8c",
