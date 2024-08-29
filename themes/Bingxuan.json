@@ -7,6 +7,10 @@
       "token": ""
     },
     {
+      "foreground": "80B3FF",
+      "token": "keyword.operator"
+    },
+    {
       "foreground": "77ee8c",
       "fontStyle": "italic",
       "token": "comment"
